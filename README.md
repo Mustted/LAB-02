@@ -89,11 +89,14 @@
 3. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
 4. บันทึกผล
 
+![](https://github.com/Mustted/LAB-02/blob/master/LAB2.png?raw=true)
 
 **รายละเอียดของ [Main Window Class](http://www.functionx.com/win32/Lesson01b.htm)**
 
 ##คำถาม 
 1.	นักศึกษาพบปัญหาในกานคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
+
+ตอบ. ไม่พบปัญหาใดๆ
 
 ##อ้างอิง
 
@@ -119,4 +122,4 @@
 * [PostQuitMessage function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms644945(v=vs.85).aspx)
  
 
-
+##นายบุญฤทธิ์  หอมรื่น รหัสนักศึกษา 57030185 
